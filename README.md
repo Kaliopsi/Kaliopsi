@@ -1,7 +1,7 @@
 ### Hi there 👋
 Its ya boi, Kaliopsi!
 I'm a gamer, but I plan to make games too!
-Currently learning how to code in different formats.
+I specialize in Concept and Game Design.
 <!--
 **Kaliopsi/Kaliopsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
